@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🌟 Front-end Developer with 3+ years of experience
 - 🎯 Focused on creating scalable, responsive web applications
-- 🌱 Currently learning **Data Structures and Algorithms in Java**
 - 💡 Passionate about clean code and elegant UI/UX designs
 
 ---
@@ -12,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-awadheshs109%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awadheshs109@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AwadheshSharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awadhesh-sharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-Awadheshs109-black?style=for-the-badge&logo=github)](https://github.com/Awadheshs109)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=for-the-badge&logo=firefox)](https://awadhesh-portfolio.vercel.app/)
 
 ---
 
